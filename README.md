@@ -13,10 +13,14 @@ Step 4: After that using a custom parser we've generated several simple AIML fil
 
 Step 5: After importing these AIML files to a famous online platform called Pandorabots, we tested the operations of our chatbot.
 
+\
+Architecture:
 <div align="center">
     <img src="https://github.com/hyadav2k/KMST-Group-Project-2023/blob/main/img/architecture.png">
 </div>
 
+\
+Result:
 <div align="center">
     <img src="https://github.com/hyadav2k/KMST-Group-Project-2023/blob/main/img/pandorabot.png">
 </div>
