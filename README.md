@@ -1,6 +1,8 @@
 # KMST-Group-Project-2023
 Members - Tanmay Agarwal (18MA20047), Harshit Yadav (18MA20016).
 
+For [Ontology](https://github.com/hyadav2k/KMST-Group-Project-2023/tree/main/src/main/resources)
+
 Tasks in the project-
 
 Step 1: First we created a simple ontology regarding the coronavirus which contained information like symptoms of the virus, modes of transmission, precautions and treatments
